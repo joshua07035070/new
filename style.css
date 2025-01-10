@@ -1,0 +1,10 @@
+.audio-container{
+    position: relative;
+    
+}
+.Download-text{
+    position:absolute;
+    text-align:center;
+    top: 50%;
+    margin-left: 10%;
+}
